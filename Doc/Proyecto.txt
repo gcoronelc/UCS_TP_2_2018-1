@@ -1,0 +1,59 @@
+=======================================================================
+PROYECTO : Sistema de Ventas
+Sistema de Ventas para un restaurante
+Debe implementar el pago con varios medios
+Se trata de un sistema web
+=======================================================================
+
+Motor de BD: SQL Server / Oracle / MySQL
+Lenguaje:    Java
+Plataforma:  Java EE
+Servidor:    Apache tomcat
+IDE:         Eclipse
+
+
+CONTENIDO DEL INFORME
+==============================
+
+- Caratula
+- Indice
+- Resumen ejecutivo
+- Conceptualización del requerimiento
+- Arquitectura de la Solución
+- Identificación y diseño de todos los procesos
+- Definición del flujo de Procesos
+- Modelo de la Base de Datos
+- Implementación de la Aplicación
+- Lecciones Aprendidas
+- Recomendaciones / Observaciones
+
+
+EVALUACIÓN DEL PROYECTO
+==============================
+
+Nota de Proyecto = Avance Proyecto * 0.40 + Presentación Final * 0.60
+
+Avance de Proyecto
+------------------
+
+  - Avance de Informe: 
+    . Arquitectura de la Solución
+    . Identificación y diseño de todos los procesos
+    . Definición del flujo de Procesos
+    . Modelo de la base de datos
+  
+  - Avance de la Aplicación
+    . Definición de las interfaces de usuario
+    . Implementación de las interfaces de usuario
+      
+Presentación Final
+------------------
+
+  - Informe completo
+  - Aplicación Completa
+  
+  
+
+
+
+      
