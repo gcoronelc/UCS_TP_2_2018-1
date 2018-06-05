@@ -9,12 +9,12 @@
 - Código del Curso : ISG-502
 - Nombre del Curso : TALLER DE PROGRAMACIÓN II 
 - Condición	:	Obligatorio
-- Número de horas semanales	:	10 (T=3, P=4, V=7)
+- Número de horas semanales	:	10 
 - Número de créditos	:	5
-- Semestre Académico	:	2018-0A
+- Semestre Académico	:	2018-1
 - Ciclo	:	VI
 - Sección: 6A
-- Nro. de Clase: 1032
+- Nro. de Clase: 
 
 ## DOCENTE
 
