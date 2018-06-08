@@ -2,7 +2,9 @@ Asistencia:
 -------------------------------------------------
 - Faltan: -2 Puntos
 - Tarde: -1 Punto
-- Tolerancia: 20 min
+- Tolerancia: 
+-    7:20 (Presente)
+-    8:00 (Tarde)
 
 
 Participación:
